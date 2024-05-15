@@ -1,4 +1,4 @@
-# PythonCalculator
+# NumberGuessingGame
 This game is my python project, In this game you just guessing the number.
 
 ## Project's Details
