@@ -14,4 +14,4 @@ And use "auto-py-to-exe" to convert this code to exe file.
 https://drive.google.com/file/d/1n-Jbz31MC_-3e0wOoHdCIRgikIynw05i/view?usp=sharing
 
 # Dev comment
-Umm, I think it's work but if you play it maybe founded some bugs!.
+Umm, I think it's work but if you play it maybe founded some bugs!, Because it's beta.
